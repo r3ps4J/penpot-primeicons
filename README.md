@@ -1,6 +1,8 @@
 # penpot-primeicons
 PrimeIcons library for Penpot.
 
+![Cover](./assets/Cover.jpg)
+
 ## How to use this library?
 To use this library within other Penpot files you need to turn it into a "Shared Library". You can do so by pressing the three dot menu next to the filename of this file in the top left corner of the window and going to File > Add as Shared Library.
 
